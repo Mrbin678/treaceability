@@ -1,0 +1,11 @@
+.header{width:756px;height:38px;margin: 10px auto;}
+.block{float: left;height:31px;}
+.date{width:118px;margin-right:70px;margin-top:23px ;font-size:16px;}
+.logo{margin-top: 10px;margin-bottom: 2px;width:220px;}
+.order{width: 756px; height: 500px; margin: 10px auto;}
+.mes_left{width:396px;float: left;height:248px;}
+.mes_right{width:360px;float: right;height:248px;}
+hr{width:750px;height:3px;border:none;border-top:3px solid black; }
+h2{margin: 7px 0;}
+p{line-height: 12px;font-size: 16px;}
+a{width: 100px;margin:20px 0px 0px 50px;float: left;}

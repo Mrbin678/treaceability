@@ -1,0 +1,10 @@
+dataSource.driverClass=org.postgresql.Driver
+dataSource.jdbcUrl=jdbc:postgresql://192.168.1.12/hxqs
+#dataSource.jdbcUrl=jdbc:postgresql://localhost/traceability
+dataSource.user=postgres
+dataSource.password=postgres
+#dataSource.password=123456
+dataSource.maxPoolSize=20
+dataSource.maxIdleTime=1000
+dataSource.minPoolSize=6
+dataSource.initialPoolSize=6
